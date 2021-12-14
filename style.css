@@ -1,0 +1,17 @@
+*{
+    background-color: white ;
+}
+
+h1,h2{
+    color: black;
+}
+
+.good{
+    text-align: center;
+    font-size: 3em ;
+}
+
+#image{
+    width: auto;
+    height: auto;
+}
